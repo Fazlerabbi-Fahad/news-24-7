@@ -17,11 +17,13 @@ body {
 .btn-news {
     color: #A3A3A3;
 
-    font-weight: 500;
+    font-weight: 600;
 }
 
-.btn-news:hover {
-    color: #5D5FEF;
-    text-decoration: underline;
-    font-weight: 600;
+
+
+/* main section */
+/* Category */
+.category {
+    color: #A3A3A3;
 }
